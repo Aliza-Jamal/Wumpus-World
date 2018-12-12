@@ -1,0 +1,2 @@
+# Wumpus-World
+Wumpus World is a puzzle-dungeon game where you search through the different rooms for treasure. It’s a Windows based application, developed using full concepts of Automata Theory and C# to do GUI. The Wumpus World game was originally designed to test the intelligence of humans. You are trapped in a strange world and something doesn't feel good about this place. Test your skills against larger and larger worlds, avoid the perils within, and emerge victorious with riches galore.
